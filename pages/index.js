@@ -9,7 +9,7 @@ export default function Home() {
         <title>Patrick Rusimbi</title>
       </Head>
       <main>
-        <h1>Hi, I'm Patrick Rusimbi</h1>
+        <h1>Hi, I am Patrick Rusimbi</h1>
       </main>
     </div>
   )
